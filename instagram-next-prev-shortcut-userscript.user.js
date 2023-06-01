@@ -5,7 +5,7 @@
 // @grant       none
 // @version     0.20230601.0
 // @author      Gea-Suan Lin <gslin@gslin.com>
-// @description Instagram Next/Prev Shortcut
+// @description Add shortcuts for Instagram Next/Prev buttons
 // @license     MIT
 // ==/UserScript==
 
